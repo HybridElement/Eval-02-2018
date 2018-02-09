@@ -18,6 +18,3 @@ foreach($coordonnees as $cle => $valeur) {
 }
 
 echo $date->format('d-m-Y');
-
-
-?>
